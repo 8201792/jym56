@@ -181,13 +181,3 @@ polygon|行政区域边界，高德地图`GCJ-02`火星坐标系。存在多个�
 ## 坐标和行政区域边界采集
 
 使用`坐标和边界`目录内的`map_geo.js`、`map_geo_格式化.js`在[高德地图测试页面](https://lbs.amap.com/api/javascript-api/example/district-search/draw-district-boundaries)，根据文件内的说明即可完成采集。
-
-
-
-
-# :star:捐赠
-如果这个库有帮助到您，请 Star 一下。
-
-你也可以选择使用支付宝给我捐赠：
-
-![](https://github.com/xiangyuecn/Recorder/raw/master/.assets/donate-alipay.png)  ![](https://github.com/xiangyuecn/Recorder/raw/master/.assets/donate-weixin.png)
